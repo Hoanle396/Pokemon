@@ -47,7 +47,7 @@ var ACCESSLOCATION =123
 
     fun GetUserLocation(){
         Toast.makeText(this,"User location access on",Toast.LENGTH_LONG).show()
-
+ //
     }
     override fun onRequestPermissionsResult(
         requestCode: Int,
